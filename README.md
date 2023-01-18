@@ -7,6 +7,8 @@
 - [Create a New Issue/Idea/Discussion](https://github.com/WordPress/Community-Issue-Tracker/issues/new/choose)
 - [View Ongoing Project Boards](https://github.com/WordPress/Community-Issue-Tracker/projects)
 
+- [Github Community Site](https://wordpress.github.io/Community-Issue-Tracker/)
+
 
 This team helps the community with official events like:
 
