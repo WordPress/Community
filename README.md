@@ -1,10 +1,11 @@
 # WordPress Community Team on Github
 
-### This is the home of the Make @Community-Team for the WordPress open source project!
+### This is the home of the Community Team @WordPress/make-community-team for the WordPress open source project!
 
-- [WP Community Team on GH](https://github.com/orgs/WordPress/teams/community-team/) | @WordPress/Community-team 
+→ [WP Community Team on GitHub](https://github.com/orgs/WordPress/teams/make-community-team/)) | @WordPress/make-community-team 
 
 - [Create a New Issue/Idea/Discussion](https://github.com/WordPress/Community-Issue-Tracker/issues/new/choose)
+- 
 - [View Ongoing Project Boards](https://github.com/WordPress/Community-Issue-Tracker/projects)
 
 - [Github Community Site](https://wordpress.github.io/Community-Issue-Tracker/)
