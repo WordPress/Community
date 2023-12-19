@@ -1,7 +1,7 @@
 ---
 name: Application Review Template
 about: Stardardised template for iapplication review submisstion to community team
-title: Brief Title
+title: Application Review Template
 labels: Awaiting Triage
 assignees: ""
 ---
