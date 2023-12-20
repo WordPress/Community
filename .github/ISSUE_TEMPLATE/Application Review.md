@@ -26,9 +26,16 @@ Github is to be used for status, assignment, progress, and other task/project up
 - HS link
 
 ## Next steps
-- Please assign the issue to the team member
-- Team members will perform te task on the tracker and HS as indicated on the handbook 
-- Once the task is completed, the team member can mark the issue as fixed
+- Please assign the issue to the team member and make sure to mark the issue ```To Do```
+- Assignee (Team Member) will mark the issue as ```In Progress``` and perform the vetting taks on the tracker and HS as indicated on the handbook
+- Once the vetting is completed marke the issue as ```In Review```
+- Once pair reviewing is done ```Close``` the issue
+
+## Public vs Private
+
+- Use comments for questions about the process and changes or to indicate delays, holding situation.
+- Avoid discussing the community or the organiser in comments on Github. Even if there are doubts about some applications.
+- We do not post vetting notes publicly and ensure such notes are strictly in the tracker or HelpScout.
 
 ## Useful Resources
 - Application Review: https://make.wordpress.org/community/handbook/community-deputy/resources-and-tools/application-review/
