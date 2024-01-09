@@ -5,7 +5,7 @@
 → [WP Community Team on GitHub](https://github.com/orgs/WordPress/teams/make-community-team/)) | @WordPress/make-community-team 
 
 - [Create a New Issue/Idea/Discussion](https://github.com/WordPress/Community-Issue-Tracker/issues/new/choose)
-- 
+  
 - [View Ongoing Project Boards](https://github.com/WordPress/Community-Issue-Tracker/projects)
 
 - [Github Community Site](https://wordpress.github.io/Community-Issue-Tracker/)
@@ -21,7 +21,7 @@ This team helps the community with official events like:
 
 As well as,
 
-- [Deputy](https://make.wordpress.org/community/handbook/community-deputy/the-deputy-program/) and [Mentor](https://make.wordpress.org/community/handbook/community-deputy/wordcamp-program-basics/mentoring-wordcamps/) development
+- [Program Supporter](https://make.wordpress.org/community/handbook/community-deputy/) and [Event Supporter](https://make.wordpress.org/community/handbook/community-deputy/wordcamp-program-basics/mentoring-wordcamps/) development
 - [Diversity initiatives](https://make.wordpress.org/community/handbook/wordcamp-organizer/first-steps/inclusive-and-welcoming-events/community-inclusion-initiatives/)
 - Growing the WordPress community
 
