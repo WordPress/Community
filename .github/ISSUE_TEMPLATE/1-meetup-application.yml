@@ -1,0 +1,39 @@
+name: Meetup Application
+description: Add a Meetup Application to track.
+title: "[Meetup]: "
+labels: ["Meetup", "application", "meetup-application"]
+projects: ["WordPress/64"]
+assignees: [""]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this Meetup Application!
+  - type: input
+    id: meetup-title
+    attributes:
+      label: Meetup City, Event Name
+      description: Meetup City or Event Name
+    validations:
+      required: false
+  - type: input
+    id: meetup-tracker
+    attributes:
+      label: Meetup Tracker Link
+      description: Add the Meetup Tracker Link here.
+    validations:
+      required: false
+  - type: input
+    id: meetup-helpscout
+    attributes:
+      label: Meetup HelpScout Link
+      description: Add the Meetup HelpScout Link here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ## Next steps
+        - Please assign the issue to the team member and make sure to mark the issue ```To Do```
+        - Assignee (Team Member) will mark the issue as ```In Progress``` and perform the vetting taks on the tracker and HS as indicated on the handbook
+        - Once the vetting is completed marke the issue as ```In Review```
