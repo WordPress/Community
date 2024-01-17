@@ -1,0 +1,39 @@
+name: WordCamp Application
+description: Add a WordCamp Application to track.
+title: "[WordCamp]: "
+labels: ["WordCamp", "application", "wordcamp-application"]
+projects: ["WordPress/64"]
+assignees: [""]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this WordCamp Application!
+  - type: input
+    id: wordcamp-title
+    attributes:
+      label: WordCamp City, Event Name
+      description: WordCamp City or Event Name
+    validations:
+      required: false
+  - type: input
+    id: wordcamp-tracker
+    attributes:
+      label: WordCamp Tracker Link
+      description: Add the WordCamp Tracker Link here.
+    validations:
+      required: false
+  - type: input
+    id: wordcamp-helpscout
+    attributes:
+      label: WordCamp HelpScout Link
+      description: Add the WordCamp HelpScout Link here.
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        ## Next steps
+        - Please assign the issue to the team member and make sure to mark the issue ```To Do```
+        - Assignee (Team Member) will mark the issue as ```In Progress``` and perform the vetting taks on the tracker and HS as indicated on the handbook
+        - Once the vetting is completed marke the issue as ```In Review```
