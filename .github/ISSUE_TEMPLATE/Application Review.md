@@ -2,7 +2,7 @@
 name: Application Review Template
 about: Stardardised template for application review submission to community team
 title: Application Review Template
-labels: Awaiting Triage
+labels: Awaiting Triage, application, wordcamp-application, meetup-application, meetup
 assignees: ""
 ---
 
