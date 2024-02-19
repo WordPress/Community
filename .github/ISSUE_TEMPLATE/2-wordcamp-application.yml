@@ -1,7 +1,7 @@
 name: WordCamp Application
 description: Add a WordCamp Application to track.
 title: "[WordCamp]: "
-labels: ["WordCamp", "application", "wordcamp-application"]
+labels: ["WordCamp", "application", "wordcamp-application", "Awaiting Triage"]
 projects: ["WordPress/64"]
 assignees: [""]
 body:
@@ -37,7 +37,7 @@ body:
          - Please assign the issue to the team member and make sure to mark the issue ```To Do```
          - Assignee (Team Member) will mark the issue as ```In Progress``` and perform the vetting taks on the tracker and HS as indicated on the handbook
          - Once the vetting is completed marke the issue as ```In Review```
-        
+
         ## Public vs Private
           - Use comments for questions about the process and changes or to indicate delays, holding situation.
           - Avoid discussing the community or the organiser in comments on Github. Even if there are doubts about some applications.
